@@ -1,0 +1,27 @@
+.menu {
+    margin-left: 50%;
+    @apply bg-black text-white w-2/4 absolute flex flex-col shadow-2xl	
+}
+
+.menuBtn {
+    @apply sm:hidden h-8 w-8
+}
+.menuLink {
+    @apply p-8 hover:bg-white hover:text-black w-full text-3xl underline 
+} 
+
+.navbar {
+    @apply bg-black text-white h-16 px-8 flex items-center content-center justify-between border-b shadow-2xl	
+}
+
+.links {
+    @apply sm:flex hidden  
+}
+
+.link {
+    @apply mr-4
+}
+
+.logo {
+    @apply text-3xl
+}

@@ -1,0 +1,15 @@
+.main {
+    @apply p-8 container mx-auto min-h-screen
+}
+
+.title {
+    @apply font-bold text-3xl
+}
+
+.text {
+    @apply pt-4
+}
+
+.subtitle {
+    @apply text-lg font-medium pt-1
+}
