@@ -7,4 +7,4 @@ A Next.js + Tailwind CSS website with dynamic routing, a responsive navbar and d
 ## Installation
 
 ```bash
-npx create-next-app --example with-tailwindcss next-tailwindcss
+npx create-next-app -e with-tailwindcss next-tailwindcss
