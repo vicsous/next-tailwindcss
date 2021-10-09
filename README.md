@@ -1,4 +1,4 @@
-# Next.js + Tailwind CSS Boilerplate
+# Next.js + Tailwind CSS
 
 ## Description
 
